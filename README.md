@@ -27,8 +27,8 @@ This project is built with:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPO_URL>
-cd <YOUR_PROJECT_NAME>
+git clone 
+cd 
 
 ### 2. Install dependencies
 
