@@ -8,7 +8,7 @@ Welcome to the source code for **RK's Kitchen**, a vibrant and modern restaurant
 
 **Live URL**:
 
----
+rkkitchen.netlify.app
 
 ## 🛠️ Technologies Used
 
